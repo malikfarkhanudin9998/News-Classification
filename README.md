@@ -1,2 +1,2 @@
 # News-Classification
-News classificationi using svm in python
+News classification using svm in python
